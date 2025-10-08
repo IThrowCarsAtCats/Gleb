@@ -1,0 +1,30 @@
+body{background-color: #3fcf3a}
+h1{color:orange; 
+font-family: monospace;
+text-align: center;
+padding: 50px;}
+
+p{color: white;
+font-family: monospace;
+text-align: center;
+font-size: 20px;
+padding: 10px;}
+
+img{border-style: groove;
+	border-width: 15px;
+	border-color: orange;}
+
+a{text-decoration: underline;
+text-decoration-style: wavy;
+color: blueviolet;
+font-family: helvetica;}
+
+a:hover{color:white;
+font-size: 20px;}	
+
+ul li{list-style: none;
+background-color: orange;
+display: inline-block;
+border-style: groove;
+margin-left: 117px;
+padding: 5px;
